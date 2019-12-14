@@ -1,2 +1,2 @@
-# start-up-landing-page
+# startup-landing-page
 teste_1
